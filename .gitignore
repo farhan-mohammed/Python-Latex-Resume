@@ -1,0 +1,9 @@
+latex-template/*
+!latex-template/*.tex
+build/
+*.log
+*.out
+*.pdf
+*.aux
+*.pyc
+*.json
