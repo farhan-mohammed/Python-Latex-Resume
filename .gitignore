@@ -7,3 +7,7 @@ build/
 *.aux
 *.pyc
 *.json
+!out/example_output.pdf
+venv/
+env/
+*.pyc

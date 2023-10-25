@@ -19,8 +19,6 @@ def build_pdf(info):
     source_file = "./latex-template/JakesResume.tex"
     destination_file = "./build/JakeResume.tex"
 
-    final_pdf = "./build/resume.pdf"
-    final_pdf_renamed = "./out/resume.pdf"
     try:
         shutil.copy(source_file, destination_file)
         with open(destination_file, "r") as file:
