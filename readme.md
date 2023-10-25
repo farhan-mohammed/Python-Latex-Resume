@@ -2,7 +2,6 @@
 
 ```py
 python3 main.py
-
 ```
 
 1. Edit your resume points and sections in `/myresumecontent/`
